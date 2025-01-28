@@ -1,16 +1,28 @@
 <h1 align="center">Hi 👋, I'm Javier Kauer</h1>
 <h3 align="center">A Computer Civil Engineering in his 6th year from Chile.</h3> 
-<h3 align="center">Currently working full time as a Fullstack Developer.</h3>
+<h3 align="center">Currently working full time as a Fullstack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkauerl&label=Profile%20views&color=0e75b6&style=flat" alt="jkauerl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkauerl" alt="jkauerl" /></a> </p>
 
+Currently I am a 6th year student of Computer Civil Engineering at Facultad de Ciencias Física y Matemáticas from Universidad de Chile. Have an interest for software engineering, programming languages, and open source development.
+
 - 🔭 I’m currently working on [Prometeo, ARIUS Industrial](www.arius.cl)
 
 - 📫 How to reach me **kauer.javier01@gmail.com**
 
-- ⚡ Fun fact **I play the guitar**
+- ⚡ Fun fact: **I play the guitar**
+
+- ⚡ Fun fact: **I play the guitar**
+
+- 🎓 I recently completed an exchange semester at **Technische Universität München**:
+  - Took a course on **Open Source Development**.
+  - Contributed to various repositories and had multiple **PRs approved**:
+    - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)
+    - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)
+    - [Implementation of Negative Log Likelihood Loss Function](https://github.com/TheAlgorithms/Rust/pull/734)
+    - [Nameserver information to network block](https://github.com/greshake/i3status-rust/pull/2058)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkauerl&show_icons=true&locale=en" alt="jkauerl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkauerl&" alt="jkauerl" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkauerl&" alt="jkauerl" /></p>-->
