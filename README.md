@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Kauer</h1>
 <h3 align="center">A Computer Civil Engineering in his 6th year from Chile.</h3> 
-<h3 align="center">Have completed a 4 year Bachelor's Degree</h3> 
+<h3 align="center">Have completed a 4 year Bachelor's Degree in Computer Science.</h3> 
 <h3 align="center">Currently working full time as a Fullstack Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkauerl&label=Profile%20views&color=0e75b6&style=flat" alt="jkauerl" /> </p>
