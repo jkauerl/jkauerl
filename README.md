@@ -15,8 +15,6 @@ Currently I am a 6th year student of Computer Civil Engineering at Facultad de C
 
 - ⚡ Fun fact: **I play the guitar**
 
-- ⚡ Fun fact: **I play the guitar**
-
 - 🎓 I recently completed an exchange semester at **Technische Universität München**:
   - Took a course on **Open Source Development**.
   - Contributed to various repositories and had multiple **PRs approved**:
