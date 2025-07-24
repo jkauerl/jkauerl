@@ -14,7 +14,7 @@ Currently, I am interested in Software Engineering, Programming Languages, and G
 
 - 📫 How to reach me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer)
 
-- 🌍 Languages: Spanish (native), English (fluent), German (learning — please contact me in German so I can practice 😅)
+- 🌍 Languages: Spanish (native), English (fluent), German (currently learning — please contact me in German so I can practice 😅)
 
 - ⚡ Fun fact: **I play the guitar**
 
