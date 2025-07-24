@@ -18,7 +18,7 @@ Currently, I am interested in Software Engineering, Programming Languages, and G
 
 - ⚡ Fun fact: **I play the guitar**
 
-- 🎓 I recently completed an exchange semester at **Technische Universität München**:  
+- 🎓 I recently completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):  
   Took a course on **Open Source Development** and contributed to various repositories with multiple **PRs approved**:  
   - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)  
   - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)  
