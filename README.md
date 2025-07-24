@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## About me
 
 Currently, I am interested in Software Engineering, Programming Languages, and Gradual Typing — a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
 
