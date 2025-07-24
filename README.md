@@ -1,7 +1,7 @@
 # Hi 👋, I'm Javier Kauer
 
 ### A student of Master of Science, specializing in Computer Science from Chile.  
-### Holds a 4 year Bachelor's Degree in Computer Science.  
+### Holding a 4 year Bachelor's Degree in Computer Science.  
 ### Currently working full time as a Full-Stack Software Engineer.
 
 ---
