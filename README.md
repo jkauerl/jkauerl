@@ -19,12 +19,13 @@ Currently, I am interested in Software Engineering, Programming Languages, and G
 - ⚡ Fun fact: **I play the guitar**
 
 - 🎓 I recently completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):  
-  Took a course on **Open Source Development** and contributed to various repositories with multiple **PRs approved**:  
+  Took a course on **Open Source Development**, used that opportunity to learn Rust, and then contributed to a variety of repositories with multiple **PRs approved**:  
   - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)  
   - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)  
   - [Implementation of Negative Log Likelihood Loss Function](https://github.com/TheAlgorithms/Rust/pull/734)  
   - [Nameserver information to network block](https://github.com/greshake/i3status-rust/pull/2058)
 
+---
 
 ### 💻 Languages
 
