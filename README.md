@@ -2,7 +2,7 @@
 
 ### A Master of Science, specializing in Computer Science student from Chile.  
 ### Holding a 4 year Bachelor of Sciences in Engineering specializing in Computer Science.  
-### Currently working full time as a Software Engineer.
+### Currently doing a mix of working part time as a Software Engineer and writing my thesis (please send help).
 
 ---
 
