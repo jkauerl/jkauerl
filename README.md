@@ -1,6 +1,6 @@
 # Hi 👋, I'm Javier Kauer
 
-### A student of Master of Science, specializing in Computer Science from Chile.  
+### A Master of Science, specializing in Computer Science student from Chile.  
 ### Holding a 4 year Bachelor of Sciences in Engineering specializing in Computer Science.  
 ### Currently working full time as a Software Engineer.
 
