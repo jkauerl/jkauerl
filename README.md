@@ -2,13 +2,13 @@
 
 ### A student of Master of Science, specializing in Computer Science from Chile.  
 ### Holding a 4 year Bachelor of Sciences in Engineering specializing in Computer Science.  
-### Currently working full time as a Full-Stack Software Engineer.
+### Currently working full time as a Software Engineer.
 
 ---
 
 ## About me
 
-Currently, I am interested in Software Engineering, Programming Languages, and Gradual Typing — a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
+Currently, I am interested in Software Engineering, Programming Languages, Modern Programming Languages, and Gradual Typing — a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
 
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 
