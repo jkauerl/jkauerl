@@ -12,7 +12,7 @@ Currently, I am interested in Software Engineering, Programming Languages, Moder
 
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 
-- 📫 How to reach me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer)
+- 📫 How to reach me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer)(?)
 
 - 🌍 Languages: Spanish (native), English (fluent), German (currently learning — please contact me in German so I can practice 😅)
 
