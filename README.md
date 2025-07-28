@@ -7,8 +7,6 @@
 - 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that — please send help!)
 - 🧠 Allegedly maintaining work-life balance (emphasis on “allegedly”)
 
-
-
 ---
 
 ## Short Bio
@@ -16,19 +14,16 @@
 Currently, I am interested in Software Engineering, Programming Languages, Modern Programming Languages, and Gradual Typing — a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
 
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
-
-- 📫 How to reach me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer)(?)
-
+- 📫 Talk to me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer) 👔 (where I pretend to be *extra* professional)
 - 🌍 Languages: Spanish (native), English (fluent), German (currently learning — please contact me in German so I can practice 😅)
-
-- ⚡ Fun fact: **I play the guitar**
-
-- 🎓 I recently completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):  
-  Took a course on **Open Source Development**, used that opportunity to learn Rust, and then contributed to a variety of repositories with multiple **PRs approved**:  
-  - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)  
-  - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)  
-  - [Implementation of Negative Log Likelihood Loss Function](https://github.com/TheAlgorithms/Rust/pull/734)  
+- ⚡ Fun fact: I *play the guitar*, *love basketball*, and (controversially) *try to avoid coffee*.
+- 🎓 Completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):
+  Took a course on **Open Source Development**, used that opportunity to learn Rust, and then contributed to a variety of repositories with multiple **PR's approved**:
+  - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)
+  - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)
+  - [Implementation of Negative Log Likelihood Loss Function](https://github.com/TheAlgorithms/Rust/pull/734)
   - [Nameserver information to network block](https://github.com/greshake/i3status-rust/pull/2058)
+- 📂 Feel free to browse my repos — mostly coursework, but they’ve done their best!
 
 ---
 
