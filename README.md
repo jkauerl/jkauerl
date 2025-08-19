@@ -1,11 +1,12 @@
 # Hi 👋, I'm Javier Kauer
 
-### A Master of Science, specializing in Computer Science student - all the way from Chile!
-### Completed a 4-year Bachelor of Science in Engineering, specializing in Computer Science -still recovering.
-### Currently (unwillingly) multitasking:
-- 🧑‍💻 Working Part-time as a Software Engineer
-- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that - please send help!)
-- 🧠 Allegedly maintaining work-life balance (emphasis on “allegedly”)
+🎓 A **Master of Science, specializing in Computer Science** student – all the way from Chile!  
+✅ Completed a 4-year **Bachelor of Science in Engineering, specializing in Computer Science** – still recovering.  
+
+Currently (unwillingly) multitasking:  
+- 🧑‍💻 Working Part-time as a Software Engineer  
+- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that – please send help!)  
+- 🧠 Allegedly maintaining work-life balance (emphasis on “allegedly”)  
 
 ---
 
