@@ -1,21 +1,21 @@
 # Hi 👋, I'm Javier Kauer
 
-### A Master of Science, specializing in Computer Science student — all the way from Chile!
-### Conquered a 4-year Bachelor of Science in Engineering with a Computer Science twist — still recovering.
+### A Master of Science, specializing in Computer Science student - all the way from Chile!
+### Completed a 4-year Bachelor of Science in Engineering, specializing in Computer Science -still recovering.
 ### Currently (unwillingly) multitasking:
 - 🧑‍💻 Working Part-time as a Software Engineer
-- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that — please send help!)
+- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that - please send help!)
 - 🧠 Allegedly maintaining work-life balance (emphasis on “allegedly”)
 
 ---
 
 ## Short Bio
 
-Currently, I am interested in Software Engineering, Programming Languages, Modern Programming Languages, and Gradual Typing — a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
+Currently, I am interested in Software Engineering, Programming Languages, Modern Programming Languages, and Gradual Typing - a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
 
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 - 📫 Talk to me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer) 👔 (where I pretend to be *extra* professional)
-- 🌍 Languages: Spanish (native), English (fluent), German (currently learning — please contact me in German so I can practice 😅)
+- 🌍 Languages: Spanish (native), English (fluent), German (currently learning - please contact me in German so I can practice 😅)
 - ⚡ Fun fact: I *play the guitar*, *love basketball*, and (controversially) *try to avoid coffee*.
 - 🎓 Completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):
   Took a course on **Open Source Development**, used that opportunity to learn Rust, and then contributed to a variety of repositories with multiple **PR's approved**:
@@ -23,7 +23,7 @@ Currently, I am interested in Software Engineering, Programming Languages, Moder
   - [Implementation of Average Marginal Ranking Loss Function](https://github.com/TheAlgorithms/Rust/pull/742)
   - [Implementation of Negative Log Likelihood Loss Function](https://github.com/TheAlgorithms/Rust/pull/734)
   - [Nameserver information to network block](https://github.com/greshake/i3status-rust/pull/2058)
-- 📂 Feel free to browse my repos — mostly coursework, but they’ve done their best!
+- 📂 Feel free to browse my repos - mostly coursework, but they’ve done their best!
 
 ---
 
