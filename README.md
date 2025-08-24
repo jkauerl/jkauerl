@@ -1,18 +1,23 @@
 # Hi 👋, I'm Javier Kauer
 
-🎓 A **Master of Science, specializing in Computer Science** student – all the way from Chile!  
-✅ Completed a 4-year **Bachelor of Science in Engineering, specializing in Computer Science** – still recovering.  
+🎓 A **Master of Science, specializing in Computer Science** student – all the way from Chile!
+✅ Completed a 4-year **Bachelor of Science in Engineering, specializing in Computer Science** – still recovering.
 
-Currently (unwillingly) multitasking:  
-- 🧑‍💻 Working Part-time as a Software Engineer  
-- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that – please send help!)  
-- 🧠 Allegedly maintaining work-life balance (emphasis on “allegedly”)  
-
+Currently (unwillingly) multitasking:
+- 🧑‍💻 Working Part-time as a Software Engineer
+- 📚 Writing my thesis on *Gradual Programming Languages with Nominal Subtyping* (or something like that – please send help!)
+- 🧠 Allegedly maintaining work-life balance (emphasis on *“allegedly”*):
+  - 🏋️‍♂️ Hitting the gym 💪
+  - 🏀 Shooting hoops
+  - ⚽️ Playing football
+  - 🎶 Jamming to music
+  - 🍕 Enjoying good food
+  - 😴 Attempting sleep ✨
 ---
 
 ## Short Bio
 
-Currently, I am interested in Software Engineering, Programming Languages, Modern Programming Languages, and Gradual Typing - a typing approach that blends static and dynamic checking. I’m also passionate about contributing to open source development.
+Currently, I am interested in Software Engineering, modern Programming Languages, and Gradual Typing -a typing approach that blends static and dynamic checking. Also passionate about contributing to open source proyects.
 
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 - 📫 Talk to me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer) 👔 (where I pretend to be *extra* professional)
