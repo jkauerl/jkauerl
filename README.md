@@ -19,7 +19,6 @@ Currently (unwillingly) multitasking:
 
 Currently, I am interested in Software Engineering, modern Programming Languages, and Gradual Typing -a typing approach that blends static and dynamic checking. Also passionate about contributing to open source proyects.
 
-- 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 - 📫 Talk to me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer) 👔 (where I pretend to be *extra* professional)
 - 🌍 Languages: Spanish (native), English (fluent), German (currently learning - please contact me in German so I can practice 😅)
 - ⚡ Fun fact: I *play the guitar*, *love basketball*, and (controversially) *don't drink coffee*.
