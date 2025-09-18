@@ -1,6 +1,7 @@
 # Hi 👋, I'm Javier Kauer
 
 🎓 A **Master of Science, specializing in Computer Science** student – all the way from Chile!
+
 ✅ Completed a 4-year **Bachelor of Science in Engineering, specializing in Computer Science** – still recovering.
 
 Currently (unwillingly) multitasking:
@@ -21,7 +22,7 @@ Currently, I am interested in Software Engineering, modern Programming Languages
 - 🔭 I am currently working at [ARIUS Industrial](http://www.arius.cl)
 - 📫 Talk to me: **kauer.javier01@gmail.com** or [LinkedIn](https://linkedin.com/in/javier-kauer) 👔 (where I pretend to be *extra* professional)
 - 🌍 Languages: Spanish (native), English (fluent), German (currently learning - please contact me in German so I can practice 😅)
-- ⚡ Fun fact: I *play the guitar*, *love basketball*, and (controversially) *try to avoid coffee*.
+- ⚡ Fun fact: I *play the guitar*, *love basketball*, and (controversially) *don't drink coffee*.
 - 🎓 Completed an exchange semester at [**Technische Universität München**](https://www.tum.de/):
   Took a course on **Open Source Development**, used that opportunity to learn Rust, and then contributed to a variety of repositories with multiple **PR's approved**:
   - [`[pycodestyle]` Whitespace after decorator (`E204`)](https://github.com/astral-sh/ruff/pull/12140)
